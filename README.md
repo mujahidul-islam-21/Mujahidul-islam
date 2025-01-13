@@ -4,7 +4,7 @@
 </div>
 <div id="badges" align="center">
   <div>
-    <img src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/200w.webp?cid=ecf05e4780pjr49nlnbyxwkdm2q6s3r3l10mpti65k3ukaht&rid=200w.webp&ct=s">
+    <img src="https://media3.giphy.com/media/jRf5fsn8G6YaogAWxn/400w.webp?cid=ecf05e4780pjr49nlnbyxwkdm2q6s3r3l10mpti65k3ukaht&rid=400w.webp&ct=s">
   </div>
  
   <h1>
